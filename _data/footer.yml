@@ -1,0 +1,12 @@
+- links:
+  - name: Help
+    link: /help/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Twitter
+    link: https://twitter.com/martinhoeller/
+    social_icon: Twitter
+    new_window: true

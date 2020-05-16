@@ -1,0 +1,12 @@
+- name: Help
+  link: /help/
+  new_window: false
+  highlight: false
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: mailto:support@bluebanana-software.com
+  new_window: false
+  highlight: false

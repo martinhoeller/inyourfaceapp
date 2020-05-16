@@ -1,0 +1,74 @@
+# ----
+# Site
+
+title: In Your Face
+url: "https://www.inyourface.app"
+baseurl: ""
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
+
+theme: jekyll-theme-hydra
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: In Your Face - Meeting reminder app for macOS
+author:
+  name: Martin Höller
+  email: support@bluebanana-software.com
+  twitter: martinhoeller
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    _hide_content: true
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 1500
+          height: 2500
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+
+jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Twitter

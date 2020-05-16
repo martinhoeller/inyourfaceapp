@@ -1,0 +1,23 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<img class="profile-image" src="../images/profile.png">
+
+Hi! I am Martin, the creator of **In Your Face**.
+
+The app was inspired by a former coworker who would always be late to our meetings. He was so focused on his work that he constantly would miss calendar notifications.
+At a company outing – after more than one beer – I said to him "You really need a reminder *in your face* to be on time. I'm going to make an app especially for you."
+This is how **In Your Face** was born.
+
+### About Me
+I am a freelance iOS and macOS developer and consultant based in Berlin, Germany, Europe.
+My professional software development career began in 2006 and my main expertise is on Apple's platforms since then (iOS / iPadOS, macOS, watchOS, tvOS).
+
+Originally I am from Graz, Austria but I moved to Berlin in 2013. Besides writing software I also like food, travelling, music, swimming and photography.
+
+For more information about me, my project portfolio and my CV check out my personal website [martinhoeller.net](https://www.martinhoeller.net).
+
+Also check out my other apps for macOS and iOS on my [App Store Page](https://apps.apple.com/us/developer/martin-hoeller/id867637412).

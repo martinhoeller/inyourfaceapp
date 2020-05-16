@@ -1,0 +1,53 @@
+#appstore-button {
+    margin: 50px auto;
+    width: 250px;
+    text-align: center;
+}
+
+.screenshot {
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+
+header {
+    background: #BD4742;
+}
+
+.hero {
+    background: linear-gradient(to bottom, #BD4742 0%, #E49D3A 100%) no-repeat;
+}
+
+.section {
+    padding: 30px 0;
+}
+
+blockquote::before {
+    content: "”";
+}
+
+.rating {
+    color: #E49D3A;
+    display: block;
+    font-style: normal;
+}
+
+.bottom-cta {
+    background: #E49D3A;
+}
+
+footer {
+    background: #222;
+}
+
+.help-screenshot {
+    display: block;
+}
+
+header {
+    background: #BD4742;
+}
+
+.profile-image {
+    border-radius: 50%;
+}
