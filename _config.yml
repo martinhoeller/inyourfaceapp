@@ -2,7 +2,7 @@
 # Site
 
 title: In Your Face
-url: "https://www.inyourface.app"
+url: "https://martinhoeller.github.io/inyourfaceapp"
 baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -68,6 +68,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - favicon.afdesign
 
 # -----------
 # CloudCannon
