@@ -9,6 +9,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 theme: jekyll-theme-hydra
+remote_theme: CloudCannon/hydra-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
