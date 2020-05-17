@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="profile-image" src="../images/profile.png">
+<div class="profile-image-container"><img class="profile-image" src="../images/profile.png"></div>
 
 Hi! I am Martin, the creator of **In Your Face**.
 

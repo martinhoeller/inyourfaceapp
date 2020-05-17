@@ -42,10 +42,15 @@ footer {
 
 .help-screenshot {
     display: block;
+    max-width: 100%;
 }
 
 header {
     background: #BD4742;
+}
+
+.profile-image-container {
+    text-align: center;
 }
 
 .profile-image {
