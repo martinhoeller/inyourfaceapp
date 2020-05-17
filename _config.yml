@@ -12,7 +12,7 @@ theme: jekyll-theme-hydra
 remote_theme: CloudCannon/hydra-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: images/icon.png
 description: In Your Face - Meeting reminder app for macOS
 author:
   name: Martin Höller
