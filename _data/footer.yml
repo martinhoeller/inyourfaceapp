@@ -5,6 +5,8 @@
     link: /about/
   - name: Contact
     link: /contact/
+  - name: Imprint
+    link: /imprint/
 - links:
   - name: Twitter
     link: https://twitter.com/martinhoeller/
