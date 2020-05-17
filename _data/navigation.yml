@@ -6,6 +6,10 @@
   link: /about/
   new_window: false
   highlight: false
+- name: Press
+  link: /press/
+  new_window: false
+  highlight: false
 - name: Contact
   link: mailto:support@bluebanana-software.com
   new_window: false

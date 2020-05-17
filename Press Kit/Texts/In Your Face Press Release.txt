@@ -1,0 +1,46 @@
+IN YOUR FACE
+Never miss a meeting again
+
+
+Press Release
+
+In Your Face 1.7: Launch Announcement
+Berlin, Germany – May 18, 2020
+
+The new version of In Your Face now detects video conferences in calendar events and provides a dedicated button to directly jump into the call with one click. 
+In Your Face is a tool for those of us who tend to overlook the macOS calendar notifications or forget about meetings altogether. It interrupts your workflow when it is time to go to a meeting by displaying a full screen reminder.
+In Your Face is available on the Mac App Store as a one-time purchase.
+
+
+Key Information
+
+App Name        In Your Face
+Launch Date     Version 1.0: August 23, 2019
+                Version 1.7: May 18, 2020"
+Pricing Model   One-time purchase
+Price           $2.99
+Distribution    Mac App Store
+Availability    macOS 10.12
+Website         https://www.inyourface.app
+Twitter         https://twitter.com/martinhoeller
+Press Kit       https://www.inyourface.app/press
+
+
+In Your Face’s Story
+
+The app was inspired by a former coworker who would always be late to our meetings. He was so focused on his work that he constantly would miss calendar notifications. At a company outing – after more than one beer – I said to him “You really need a reminder in your face to be on time. I’m going to make an app especially for you.” This is how In Your Face was born.
+
+
+Features and Media
+
+In Your Face was featured in MacRumors’ “Five Mac Apps Worth Checking Out - September 2019” (Source: https://www.macrumors.com/2019/09/04/five-mac-apps-sept-2019/).
+
+In Your Face was featured by Apple on the Mac App Store editorial category “Apps and Games We Love Right Now” in May 2020.
+
+
+About the Creator
+
+In Your Face was designed and programmed by Martin Höller. Martin is a freelance iOS and macOS developer and consultant based in Berlin, Germany. He began his professional software development career in 2006 and specialized in Apple platforms since then.
+
+Website: https://www.martinhoeller.net
+Other Apps: https://apps.apple.com/us/developer/martin-hoeller/id867637412

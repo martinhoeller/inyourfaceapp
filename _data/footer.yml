@@ -3,6 +3,9 @@
     link: /help/
   - name: About
     link: /about/
+- links:
+  - name: Press
+    link: /press/
   - name: Contact
     link: /contact/
   - name: Imprint
