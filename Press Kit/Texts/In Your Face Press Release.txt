@@ -20,7 +20,7 @@ Launch Date     Version 1.0: August 23, 2019
 Pricing Model   One-time purchase
 Price           $2.99
 Distribution    Mac App Store
-Availability    macOS 10.12
+Availability    macOS 10.11
 Website         https://www.inyourface.app
 Twitter         https://twitter.com/martinhoeller
 Press Kit       https://www.inyourface.app/press
@@ -35,7 +35,7 @@ Features and Media
 
 In Your Face was featured in MacRumors’ “Five Mac Apps Worth Checking Out - September 2019” (Source: https://www.macrumors.com/2019/09/04/five-mac-apps-sept-2019/).
 
-In Your Face was featured by Apple on the Mac App Store editorial category “Apps and Games We Love Right Now” in May 2020.
+In Your Face was featured by Apple in the Mac App Store editorial category “Apps and Games We Love Right Now” in May 2020.
 
 
 About the Creator
