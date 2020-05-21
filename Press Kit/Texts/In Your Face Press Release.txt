@@ -5,7 +5,7 @@ Never miss a meeting again
 Press Release
 
 In Your Face 1.7: Launch Announcement
-Berlin, Germany – May 18, 2020
+Berlin, Germany – May 21, 2020
 
 The new version of In Your Face now detects video conferences in calendar events and provides a dedicated button to directly jump into the call with one click. 
 In Your Face is a tool for those of us who tend to overlook the macOS calendar notifications or forget about meetings altogether. It interrupts your workflow when it is time to go to a meeting by displaying a full screen reminder.
@@ -16,7 +16,7 @@ Key Information
 
 App Name        In Your Face
 Launch Date     Version 1.0: August 23, 2019
-                Version 1.7: May 18, 2020"
+                Version 1.7: May 21, 2020
 Pricing Model   One-time purchase
 Price           $2.99
 Distribution    Mac App Store
