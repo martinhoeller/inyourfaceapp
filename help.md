@@ -24,4 +24,4 @@ Now you are all set up and **In Your Face** should be able to recognize and show
 If you need further assistance please contact [support@bluebanana-software.com](mailto:support@bluebanana-software.com).
 
 ### Does **In Your Face** support Outlook calendars?
-Unfortunately Microsoft Outlook does not support the CalDAV synchronization standard. Therefore it is currently not possible for I Your Face to show reminders for Outlook calendars.
+Unfortunately Microsoft Outlook does not support the CalDAV synchronization standard. Therefore it is currently not possible for In Your Face to show reminders for Outlook calendars.
