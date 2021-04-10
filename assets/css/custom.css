@@ -1,5 +1,5 @@
 #appstore-button {
-    margin: 50px auto;
+    margin: 20px auto;
     width: 250px;
     text-align: center;
 }
@@ -12,14 +12,29 @@
 
 header {
     background: #BD4742;
+    padding-bottom: 50px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top: 15px;
+    font-size: 1.5em;
 }
 
 .hero {
     background: linear-gradient(to bottom, #BD4742 0%, #E49D3A 100%) no-repeat;
+    padding-bottom: 80px;
 }
 
 .section {
     padding: 30px 0;
+}
+
+.flex {
+    align-items: flex-start;
 }
 
 blockquote::before {
@@ -68,10 +83,19 @@ header {
 }
 
 .title-text {
+    margin-top: 4px;
     text-align: left;
 }
 
 .title-icon {
     float: left;
     margin-right: 20px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.laptop-image {
+    margin-bottom: -120px;
 }
