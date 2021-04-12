@@ -6,12 +6,14 @@
 - links:
   - name: Press
     link: /press/
-  - name: Contact
-    link: /contact/
   - name: Imprint
     link: /imprint/
 - links:
   - name: Twitter
-    link: https://twitter.com/martinhoeller/
+    link: https://twitter.com/iyf_app/
     social_icon: Twitter
+    new_window: true
+  - name: YouTube
+    link: https://www.youtube.com/playlist?list=PLVgig99TBp30GpiptyC2Ahvo_8RzuMY6X
+    social_icon: YouTube
     new_window: true

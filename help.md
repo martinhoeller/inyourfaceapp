@@ -4,6 +4,9 @@ title: Help
 permalink: /help/
 ---
 
+### Tutorial Video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_AwQvXB218Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### How **In Your Face** works
 **In Your Face** runs in the backround on your system and monitors events in calendars that are available in the macOS Calendar app.
 It knows your next upcoming event, and shows a full-screen reminder one minute before it starts (or whichever time you configured in the settings).
