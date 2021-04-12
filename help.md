@@ -24,7 +24,7 @@ It is very easy to set up reminders for any calendar service that is supported b
 6. Make sure your newly added calendar shows up in the Calendar app
 
 Now you are all set up and **In Your Face** should be able to recognize your newly added calendar and show reminders for it.
-If you need further assistance please contact [support@bluebanana-software.com](mailto:support@bluebanana-software.com).
+If you need further assistance please contact [iyf@bluebanana-software.com](mailto:iyf@bluebanana-software.com).
 
 ### Does **In Your Face** support Microsoft Outlook?
 Unfortunately **In Your Face** does not have access to calendars in the Microsoft Outlook app. However, if you have a Microsoft Exchange account you can follow the instructions above for adding it to the macOS Calendar app.
