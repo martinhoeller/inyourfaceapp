@@ -107,7 +107,7 @@ header {
 
 @media screen and (max-width: 720px) {
     #promo-video {
-        width: 350px;
-        height: 197px;
+        width: 320px;
+        height: 180px;
     }
 }
