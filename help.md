@@ -18,7 +18,7 @@ permalink: /help/
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_AwQvXB218Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<h2 id="how-iyf-works">How **In Your Face** works</h2>
+<h2 id="how-iyf-works">How <strong>In Your Face</strong> works</h2>
 **In Your Face** runs in the backround on your computer and monitors events in calendars that are available in the macOS Calendar app.
 It knows your next upcoming event, and shows a full-screen reminder one minute before it starts (or whichever time you configured in the app's preferences).
 
@@ -37,5 +37,5 @@ It is very easy to set up reminders for any calendar service that is supported b
 Now you are all set up and **In Your Face** should be able to recognize your newly added calendar and show reminders for it.
 If you need further assistance please contact [iyf@bluebanana-software.com](mailto:iyf@bluebanana-software.com).
 
-<h2 id="outlook"> Does **In Your Face** support Microsoft Outlook?</h2>
+<h2 id="outlook"> Does <strong>In Your Face</strong> support Microsoft Outlook?</h2>
 Unfortunately **In Your Face** does not have access to calendars in the Microsoft Outlook app. However, if you have a Microsoft Exchange account you can follow the instructions above for adding it to the macOS Calendar app.
