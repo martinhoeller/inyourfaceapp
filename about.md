@@ -5,7 +5,7 @@ description: Information about Martin Höller, the creator of In Your Face
 permalink: /about/
 ---
 
-<div class="profile-image-container"><img class="profile-image" src="../images/profile.png"></div>
+<div class="profile-image-container"><img class="profile-image" src="../images/profile.png" alt="Profile picture"></div>
 
 <blockquote>
 Hi! I am Martin, the creator of <strong>In Your Face</strong>.

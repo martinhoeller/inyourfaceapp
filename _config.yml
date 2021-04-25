@@ -19,6 +19,15 @@ author:
   email: iyf@bluebanana-software.com
   twitter: iyf_app
 
+twitter:
+  username: "@iyf_app"
+
+social:
+  name: blue banana software
+  links:
+    - https://twitter.com/iyf_app
+    - https://www.youtube.com/channel/UCmPcUxxdIWlzgZHfK0amkUw
+
 # -----
 # Build
 
