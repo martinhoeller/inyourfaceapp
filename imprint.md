@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Imprint
+description: Imprint and legal information
 permalink: /imprint/
 ---
 
