@@ -9,9 +9,8 @@ permalink: /imprint/
 
 This site is run by Martin Höller.
 
-**Tax ID:** 14/349/03017<br>
-**VAT ID:** DE327815220
+**VAT ID:** IT07171240489
 
-**Address:** Urbanstraße 101, 10967 Berlin, Germany<br>
-**Phone:** +49 176 55153085<br>
+**Address:** Piazza della Vittoria 2, 50129 Firenze, Italy<br>
+**Phone:** +39 351 9586645<br>
 **Email:** martin@martinhoeller.net
