@@ -11,18 +11,19 @@ disqus_shortname:
 remote_theme: CloudCannon/hydra-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: images/icon.png
+image: images/icon.png
 description: In Your Face - Meeting reminder app for macOS
+url: https://inyourface.app
 author:
   name: Martin Höller
   email: iyf@bluebanana-software.com
   twitter: iyf_app
 
 twitter:
-  username: "@iyf_app"
+  username: iyf_app
 
 social:
-  name: blue banana software
+  name: In Your Face
   links:
     - https://twitter.com/iyf_app
     - https://www.youtube.com/channel/UCmPcUxxdIWlzgZHfK0amkUw
