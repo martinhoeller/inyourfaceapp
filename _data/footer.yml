@@ -13,6 +13,10 @@
     link: https://twitter.com/iyf_app/
     social_icon: Twitter
     new_window: true
+  - name: Mastodon
+    link: https://indieapps.space/@inyourface
+    social_icon: Mastodon
+    new_window: true
   - name: YouTube
     link: https://www.youtube.com/playlist?list=PLVgig99TBp30GpiptyC2Ahvo_8RzuMY6X
     social_icon: YouTube

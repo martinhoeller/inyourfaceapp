@@ -4,6 +4,12 @@
     text-align: center;
 }
 
+#appstore-button-top {
+    margin: 20px 0 80px 0;
+    width: 250px;
+    text-align: left;
+}
+
 .screenshot {
     background: none;
     border: none;
@@ -26,7 +32,19 @@ h3 {
 
 .hero {
     background: linear-gradient(to bottom, #BD4742 0%, #E49D3A 100%) no-repeat;
+    background-image: url('../images/header_bg.png');
+    background-repeat: repeat-x;
+    background-size: auto;
+    background-position: top center;
+    padding-top: 120px;
     padding-bottom: 80px;
+    margin-top: -70px;
+}
+
+.testimonial-inline {
+    background: #f5f5f5;
+    padding: 50px 0;
+    margin-bottom: 80px;
 }
 
 section {
@@ -60,16 +78,13 @@ footer {
     max-width: 100%;
 }
 
-header {
-    background: #BD4742;
-}
-
 .profile-image-container {
     text-align: center;
 }
 
 .profile-image {
     border-radius: 50%;
+    width: 150px;
 }
 
 .subtext {
