@@ -16,6 +16,32 @@
 
 	{% if jekyll.environment == 'production' %}
 	<script src="https://unpkg.com/@telemetrydeck/sdk/dist/telemetrydeck.min.js" defer></script>
+	<script>
+		const tdUserId = getCookie("tdUserId");
+		if (!userId) {
+		  const newUserId = generateUUID();
+		  setCookie("tdUserId", newUserId);
+		}
+
+		function getCookie(name) {
+		  const value = "; " + document.cookie;
+		  const parts = value.split("; " + name + "=");
+		  if (parts.length === 2) {
+		    return parts.pop().split(";").shift();
+		  }
+		}
+
+		function setCookie(name, value) {
+		  document.cookie = `${name}=${value};path=/`;
+		}
+
+		function generateUUID() {
+		  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+		    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+		    return v.toString(16);
+		  });
+		}
+	</script>
 	{% endif %}
 </head>
 
@@ -71,16 +97,13 @@
 	  td = window.td || [];
 	  // Required: Set your application id
 	  td.push(['app', '62591C9A-95A1-471E-A304-042F76F89DA4']);
-	  // Required: Set a user idenfitier. `anonymous` is a recommended default
-	  td.push(['user', 'anonymous']);
+	  // Required: Set a user idenfitier. 
+	  // As per TelemetryDeck's documentation this is anonymized both on client and server side to be GDPR compliant.
+	  td.push(['user', tdUserId]);
 
 	  // Custom payload sent with the signal
-	  td.push(['signal']);
 	  td.push([
-	    'signal',
-	    {
-	      route: '{{ page.url }}',
-	    },
+	    'signal', { route: '{{ page.url }}', },
 	  ]);
 	</script>
 </body>
