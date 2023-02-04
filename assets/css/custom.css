@@ -143,3 +143,8 @@ footer {
     font-size: 1.5em;
     color: rgb(50, 50, 50);
 }
+
+iframe.presskit {
+    height: 1200pt;
+    margin: 0;
+}
