@@ -67,8 +67,21 @@
 	</script>
 
 	<script>
-		window.td = window.td || [];
-		td.push(['app', '62591C9A-95A1-471E-A304-042F76F89DA4'], ['user', 'anonymous'], ['signal']);
+	  // Required: queue setup
+	  td = window.td || [];
+	  // Required: Set your application id
+	  td.push(['app', '62591C9A-95A1-471E-A304-042F76F89DA4']);
+	  // Required: Set a user idenfitier. `anonymous` is a recommended default
+	  td.push(['user', 'anonymous']);
+
+	  // Custom payload sent with the signal
+	  td.push(['signal']);
+	  td.push([
+	    'signal',
+	    {
+	      route: '{{ page.url }}',
+	    },
+	  ]);
 	</script>
 </body>
 
