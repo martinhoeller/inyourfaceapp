@@ -14,13 +14,8 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lightbox.min.css">
 	<link rel="icon" type="image/png" href="assets/favicon.png">
 
-	{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-	<script>
-		window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
-		ga('create', '{{ site.google_analytics_key }}', 'auto');
-		ga('send', 'pageview');
-	</script>
-	<script async src='https://www.google-analytics.com/analytics.js'></script>
+	{% if jekyll.environment == 'production' %}
+	<script src="https://unpkg.com/@telemetrydeck/sdk/dist/telemetrydeck.min.js" defer></script>
 	{% endif %}
 </head>
 
@@ -69,6 +64,11 @@
 			document.body.classList.toggle("nav-open");
 			return false;
 		};
+	</script>
+
+	<script>
+		window.td = window.td || [];
+		td.push(['app', '62591C9A-95A1-471E-A304-042F76F89DA4'], ['user', 'anonymous'], ['signal']);
 	</script>
 </body>
 
