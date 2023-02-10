@@ -20,7 +20,7 @@ This is how **In Your Face** was born.
 I am a freelance iOS and macOS developer and consultant based in Florence, Italy, Europe.
 My professional software development career began in 2006 and my main expertise is on Apple's platforms since then (iOS / iPadOS, macOS, watchOS, tvOS).
 
-Originally I am from Graz, Austria. I moved to Berlin in 2013 and stayed there for more than 8 years before deciding to move to Italy in 2022. Besides writing software I also like food, travelling, music, swimming and photography.
+Originally I am from Graz, Austria. I moved to Berlin in 2013 and stayed there for more than 8 years before deciding to move to Italy in 2022. Besides writing software I also like food, traveling, music, swimming and photography.
 
 For more information about me, my project portfolio and my CV check out my personal website [martinhoeller.net](https://www.martinhoeller.net).
 

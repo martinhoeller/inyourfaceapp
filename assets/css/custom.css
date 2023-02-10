@@ -31,7 +31,7 @@ h3 {
 }
 
 .hero {
-    background: linear-gradient(to bottom, #BD4742 0%, #E49D3A 100%) no-repeat;
+    background: linear-gradient(to bottom, #BD4742 0%, #F0990E 100%) no-repeat;
     background-image: url('../images/header_bg.png');
     background-repeat: repeat-x;
     background-size: auto;
@@ -60,13 +60,13 @@ blockquote::before {
 }
 
 .rating {
-    color: #E49D3A;
+    color: #F0990E;
     display: block;
     font-style: normal;
 }
 
 .bottom-cta {
-    background: #E49D3A;
+    background: #F0990E;
 }
 
 footer {
@@ -147,4 +147,33 @@ footer {
 iframe.presskit {
     height: 1200pt;
     margin: 0;
+}
+
+.plans .plan {
+    text-align: left;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+}
+
+.plans .plan li {
+    padding: 10px 20px 10px 50px;
+    position: relative;
+}
+
+.plans .plan li:before {
+    content: "✔";
+    position: absolute;
+    left: 1.8em;
+    color: #F0990E;
+}
+
+.plans .plan .plan-name li {
+    text-align: center;
+    padding-left: 0px;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.plans .plan .plan-name li:before {
+    content: none;
 }

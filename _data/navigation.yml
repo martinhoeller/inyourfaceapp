@@ -2,6 +2,10 @@
   link: /
   new_window: false
   highlight: false
+- name: Pricing
+  link: /pricing/
+  new_window: false
+  highlight: false
 - name: Help
   link: /help/
   new_window: false
