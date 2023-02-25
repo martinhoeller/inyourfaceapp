@@ -80,6 +80,7 @@ exclude:
   - LICENCE
   - favicon.afdesign
   - Press Kit
+  - designs
 
 # -----------
 # CloudCannon

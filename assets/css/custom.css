@@ -177,3 +177,17 @@ iframe.presskit {
 .plans .plan .plan-name li:before {
     content: none;
 }
+
+ul.help {
+    padding-inline-start: 0px;
+}
+
+.help li {
+    font-size: 20px;
+    list-style-type: none;
+    background: url(../images/doc.svg) no-repeat left top;
+    padding: 0 0 0 30px;
+    background-position: left;
+    margin-bottom: 10px;
+}
+
