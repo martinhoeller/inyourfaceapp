@@ -23,5 +23,7 @@ At the moment **In Your Face** supports the following services:
 * Entre
 * Riverside
 * Slack Huddles
+* Meta Workplace
+* Skype
 
 If you miss a conferencing service please drop a message at [iyf@bluebanana-software.com](mailto:iyf@bluebanana-software.com)

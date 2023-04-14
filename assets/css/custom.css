@@ -17,7 +17,7 @@
 }
 
 header {
-    background: #BD4742;
+    background: #FE770F;
     padding-bottom: 50px;
 }
 
@@ -60,13 +60,13 @@ blockquote::before {
 }
 
 .rating {
-    color: #F0990E;
+    color: #FE770F;
     display: block;
     font-style: normal;
 }
 
 .bottom-cta {
-    background: #F0990E;
+    background: #FE770F;
 }
 
 footer {
@@ -164,7 +164,7 @@ iframe.presskit {
     content: "✔";
     position: absolute;
     left: 1.8em;
-    color: #F0990E;
+    color: #FE770F;
 }
 
 .plans .plan .plan-name li {
