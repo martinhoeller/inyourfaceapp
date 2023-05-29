@@ -153,6 +153,8 @@ iframe.presskit {
     text-align: left;
     margin-bottom: 25px;
     padding-bottom: 20px;
+    box-shadow: none;
+    border: none;
 }
 
 .plans .plan li {
