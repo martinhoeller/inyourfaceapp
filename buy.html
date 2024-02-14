@@ -1,0 +1,76 @@
+---
+---
+
+<script src="https://cdn.paddle.com/paddle/v2/paddle.js"></script>
+<script type="text/javascript">
+  /*
+    var token = "test_63682a267b568dcd6286175ac11"
+    var priceId = "pri_01hn8ekp5309nspfqkrsx5k318"
+    Paddle.Environment.set("sandbox");
+  */
+    var token = "live_5ff4b452f70aabd5cb687c9b1b3"
+    var priceId = "pri_01hmpt9821dyq2vs82m3vyp1cw"
+
+    var items = [{
+      quantity: 1,
+      priceId: priceId,
+    }];
+
+    Paddle.Setup({
+      token: token,
+    });
+
+    function fetchPrice() {
+      var request = {
+        items: items,
+        address: {
+         countryCode: 'US'
+        }
+      }
+
+      Paddle.PricePreview(request)
+        .then((result) => {
+          var formattedTotal = result['data']['details']['lineItems'][0]['formattedTotals']['total']
+          document.getElementById('price').innerText = formattedTotal;
+        })
+        .catch((error) => {
+          console.error(error);
+        });
+    }
+</script>
+
+<div class="purchase">
+  <div class="header">
+    <img srcset="../images/icon.png 1x, ../images/icon@2x.png 2x" src="../images/icon.png">
+    <h1>In Your Face</h1>
+    <p>The meeting reminder app</p>
+  </div>
+
+  <div class="purchase-card">
+    <h3>Lifetime License</h3>
+
+    <div class="price" id="price">
+      <div class="spinner"></div>
+    </div>
+
+    <ul>
+      <li>One-time purchase</li>
+      <li>Activate on up to 3 devices per user</li>
+    </ul>
+    <a
+      id='buy_button'
+      href='#'
+      class='button paddle_button'
+      data-items=''
+    >
+    Buy now
+  </a>
+  </div>
+
+</div>
+
+<script>
+    fetchPrice();
+    var button = document.getElementById('buy_button');
+    button.setAttribute('data-items', JSON.stringify(items));
+</script>
