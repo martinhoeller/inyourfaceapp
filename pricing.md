@@ -26,6 +26,8 @@ faq:
     answer: If you don't like the app or it does not work for you then you can <a href="https://support.apple.com/en-us/HT204084">request a refund from Apple</a>. Developers can not directly issue refunds for app bought in the App Store. In case you bought a lifetime license please contact <a href="mailto:iyf@bluebanana-software.com">iyf@bluebanana-software.com</a>.
   - question: What if I bought the app before the switch to the subscription model?
     answer: Users who bought the app before the switch to the subscription model (August 2022) can make full use of the app without restrictions.
+  - question: Do I need a special version for the lifetime license?
+    answer: Yes! The lifetime license is only available with the non-App Store version of In Your Face <a href="https://bluebanana-software.com/iyf/InYourFace.zip">(download here)</a>. All different versions of the app have the exact same functionality and will receive all updates at the same time.
   - question: Questions?
     answer: Contact us for any further questions at <a href="#">iyf@bluebanana-software.com</a>.
 
